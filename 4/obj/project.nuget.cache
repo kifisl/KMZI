@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OeAbvkwAGfi8yjEhzxNx0iyYWeQ0a2NdpdZenUhOsC6akCI+gaWN/WGElK8s2N0ga858930n7PD1YPfc/wLghg==",
+  "success": true,
+  "projectFilePath": "D:\\3 курс\\крипта\\Cripta_Lab4\\Cripta_Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.12\\microsoft.netcore.app.host.win-x86.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

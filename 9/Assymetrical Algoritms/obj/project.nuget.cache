@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjqt87UXI7mhCyzA51XVKk2EuNdfmugRmtnl7bx6cBhAhHH2GZf0TjANGK15T1tY7jxZbrbSvQaoxL8ZqpC7IQ==",
+  "success": true,
+  "projectFilePath": "D:\\3 курс\\крипта\\Cripta_Lab9\\Assymetrical Algoritms\\Assymetrical Algoritms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.21\\microsoft.netcore.app.host.win-x86.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

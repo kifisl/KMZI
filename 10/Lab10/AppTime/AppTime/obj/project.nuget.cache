@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pYsoHxLPPYC5RzsL7+SGEKWvFGRDHHJBQDtLvsg2kCDmG8ThyWcTA5AiFXdUEgTPh36Mf4XUvSFPbT3gMQ1pFg==",
+  "success": true,
+  "projectFilePath": "D:\\3 курс\\крипта\\Cripta_Lab10\\Lab10\\AppTime\\AppTime\\AppTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nilla\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.21\\microsoft.netcore.app.host.win-x86.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
